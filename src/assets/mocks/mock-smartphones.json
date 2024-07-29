@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13 Rosa",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/194252707432-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTUxNHxpbWFnZS93ZWJwfGFHUXlMMmcwWkM4eE5ETXhOak0yT1RjM01qVTNOQzh4T1RReU5USTNNRGMwTXpKZk1EQXhYemMxTUZkNE56VXdTQXxiODU4OTg5MmU2NGZhNDljNjc1ZDM4MWU3NTFmNjMxZjdmY2FiZDhlNTg0MmQ0MTg1MjAwMWRhMTMwMTIwMDE5",
+        "price":"4.165.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 13 Azul Medianoche",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"128G",
+        "image":"https://www.alkosto.com/medias/194252707166-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDIxNnxpbWFnZS93ZWJwfGFERm1MMmd3WkM4eE5ETXhOak0yTlRBMU16azRNaTh4T1RReU5USTNNRGN4TmpaZk1EQXhYemMxTUZkNE56VXdTQXxjYjczZDE2ZDg0YmM4MDVkMzA2MjAzMDM0N2YzMzgyZmEyYjcxZWJjMzU1OWRhM2RlYzgyZDMxNzk5MjRjNTU2",
+        "price":"4.165.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 13 Blanco Estrella",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/194252707432-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTUxNHxpbWFnZS93ZWJwfGFHUXlMMmcwWkM4eE5ETXhOak0yT1RjM01qVTNOQzh4T1RReU5USTNNRGMwTXpKZk1EQXhYemMxTUZkNE56VXdTQXxiODU4OTg5MmU2NGZhNDljNjc1ZDM4MWU3NTFmNjMxZjdmY2FiZDhlNTg0MmQ0MTg1MjAwMWRhMTMwMTIwMDE5",
+        "price":"4.165.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 4,
+        "name": "REDMI Note 13 Negro",
+        "brand": "XIAOMI",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/6941812759530-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDYxNnxpbWFnZS93ZWJwfGFESTNMMmd4WkM4eE5ETTJOVFl5TURjNU56UTNNQzgyT1RReE9ERXlOelU1TlRNd1h6QXdNVjgzTlRCWGVEYzFNRWd8NDAwYzRlZDA5ZTg1OGU5MGZhMTk4ZmI0MzIzNDFmMGRjYTMzYzg5OTk5NzkxZDVlNzM5OWRkNDMzZWUwNzM3Mw",
+        "price":"1.399.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 5,
+        "name": "MOTOROLA G84 5G Rojo",
+        "brand": "MOTOROLA",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/840023250392-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMDkxMnxpbWFnZS93ZWJwfGFEUXpMMmcyWXk4eE5ETTFORFU0TWpjek1qZ3pNQzg0TkRBd01qTXlOVEF6T1RKZk1EQXhYemMxTUZkNE56VXdTQXw5OGNmMjQyMGFhZjIxNzVmMDI1NjRiYzRmYTI0YzlhNTA1NWVjYzFlYWFjMzVmMmU1NGIyYmQwZmJkN2E0YWEz",
+        "price":"1.899.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 6,
+        "name": "REDMI Note 13 Pro Morado",
+        "brand": "XIAOMI",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/6941812762721-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTMzMnxpbWFnZS93ZWJwfGFEZGhMMmhsWXk4eE5ETTJOVFl6TURjMU9EazBNaTgyT1RReE9ERXlOell5TnpJeFh6QXdNVjgzTlRCWGVEYzFNRWd8MDlkYzUxMzYwNTU3MzY1Y2Q5NzI3MDUxZWY5YmJiNWMwOTgyZTg4YTRhZjJkMjhkNTYyMDUwOWI4Y2RkMjEyYw",
+        "price":"1.999.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 7,
+        "name": "SAMSUNG A15 Negro",
+        "brand": "SAMSUNG",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/8806095467733-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMzkwMHxpbWFnZS93ZWJwfGFHRXlMMmhtTVM4eE5ETTJOVFV4TWpVNU56VXpOQzg0T0RBMk1EazFORFkzTnpNelh6QXdNVjgzTlRCWGVEYzFNRWd8ZTRlNmYwYjFkNzUwYTM4ODk3MWFiMGIxOTlkYzRhOWZmYzA5ZWI3NDM0M2UzODYzMzQ1MGI2MmNiN2M5OGM3OQ",
+        "price":"999.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 8,
+        "name": "MOTOROLA G54 5G Azul",
+        "brand": "MOTOROLA",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/840023259418-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzMzY2OHxpbWFnZS93ZWJwfGFEWXhMMmczTVM4eE5ETTJOVEF5T0RVNE1UUXdOaTg0TkRBd01qTXlOVGswTVRoZk1EQXhYemMxTUZkNE56VXdTQXw0MTRlNmIxZjEzZmZhM2FhOTNlNTk0MTg3MzM5ZDIxMDM0MzU1OWVjYjk5MjA0YWRlNzRlYWY0MjUzYTEwZWZm",
+        "price":"1.799.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 9,
+        "name": "REDMI Note 13 Pro Negro",
+        "brand": "XIAOMI",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/6941812758915-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDMzNHxpbWFnZS93ZWJwfGFEUTBMMmcwTmk4eE5ETTJOVFl4TVRneE9UQXpPQzgyT1RReE9ERXlOelU0T1RFMVh6QXdNVjgzTlRCWGVEYzFNRWd8YWMzM2RkNWMwODg1ZGQ3YjgzOWY0YzQ4YmE3MDVhMmQ5Zjg5N2ViYTk5ODQ4OGQ0NmFiNWY0YzBmYWYwYmFjYQ",
+        "price":"1.999.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 10,
+        "name": "iPhone 12 Morado",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/194252430521-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMzQyNnxpbWFnZS93ZWJwfGFEbGhMMmd3T1M4eE5ETTFOVEF6T0RFM05USTJNaTh4T1RReU5USTBNekExTWpGZk1EQXhYemMxTUZkNE56VXdTQXxjMTljYmM4YzVjMmI2ZGE4N2VlZTlhZjM5MmYzZDViMDg1MTUwMWM3MTk4MjQyMzgyZTc2OTg1NTU1ZWJmYmNh",
+        "price":"4.519.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 11,
+        "name": "MOTOROLA G84 5G Negro",
+        "brand": "MOTOROLA",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/840023250415-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNzI3OHxpbWFnZS93ZWJwfGFHRXdMMmhrT1M4eE5ETTFORFU1TkRJMk56RTJOaTg0TkRBd01qTXlOVEEwTVRWZk1EQXhYemMxTUZkNE56VXdTQXxiYjNmNjM0NDlhYTg1ZjAzOWIwNWY1YWQ3ZGM0YTAwZDIxOGNjZWE4YmQzYjgwZTg4OWE3YTliMGY0NzI1MTY3",
+        "price":"1.899.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 12,
+        "name": "SAMSUNG Galaxy A54 5G Negro",
+        "brand": "SAMSUNG",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/8806094990720-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjQwNnxpbWFnZS93ZWJwfGFESXpMMmc0WWk4eE5ETTNOelV3TXpBek1UTXlOaTg0T0RBMk1EazBPVGt3TnpJd1h6QXdNVjgzTlRCWGVEYzFNRWd8ZGQ0NDEwNGM0ZjI4ZWIyMTEyYWI5OWE5NzM4MDg3MmYyZDIyMjA1YzJmMWY2NjA1YjRjMTI0ZTFiNDFkMmQwYg",
+        "price":"2.599.990",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 13,
+        "name": "iPhone 11 Negro",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"64GB",
+        "image":"https://www.alkosto.com/medias/194252097236-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjU0NHxpbWFnZS93ZWJwfGFERmxMMmd3TlM4eE5ESTVORGM0TVRBek5EVXlOaTh4T1RReU5USXdPVGN5TXpaZk1EQXhYemMxTUZkNE56VXdTQXxlZjQ5MDNhNmYxODA3MDJkNTY0MGMzZWIxNzhkOWJkMGJiOTVlODAyOWY3YWIyNTg1NjVlMTAyMzI5MzAzNzQw",
+        "price":"2.699.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 14,
+        "name": "REDMI Note 13 Verde",
+        "brand": "XIAOMI",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/6941812761991-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMTI2OHxpbWFnZS93ZWJwfGFEZGlMMmczWmk4eE5ETTJOVFl5TmpBME1ETTFNQzgyT1RReE9ERXlOell4T1RreFh6QXdNVjgzTlRCWGVEYzFNRWd8NDUyODc5NjkxNmQ4YzJhMWIxYTY3YTZmY2Q0NzAyYzE4MTYxODQxOGIxNTA0MTc4Yzc5MzAwYzMwOTFmM2FlYQ",
+        "price":"1.399.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 15,
+        "name": "SAMSUNG A15 Azul",
+        "brand": "SAMSUNG",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/8806095467757-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNDA3OHxpbWFnZS93ZWJwfGFHVmhMMmhtWVM4eE5ETTJOVFV4TnpNeE5qRXlOaTg0T0RBMk1EazFORFkzTnpVM1h6QXdNVjgzTlRCWGVEYzFNRWd8N2EyNWU2NzM5YjViOTVmNWJiY2Q0MGRhOWNhNjhjM2MxYmM0ZTJhNjBlYzI0NjcwMjVlZGRhYmZmNWU5ZTdiMA",
+        "price":"999.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 16,
+        "name": "iPhone 15 Pro Max  5G Titanio Negro",
+        "brand": "APPLE",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/195949048104-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxOTAwMHxpbWFnZS93ZWJwfGFHUTVMMmhtWWk4eE5ETTFOalF4T0RNNU5qRTVNQzh4T1RVNU5Ea3dORGd4TURSZk1EQXhYemMxTUZkNE56VXdTQXw4NWFhM2I1YzYwYTA2N2YzMDUxNWFjNTBjMjY3OTdkMmM5MmE5NzFkM2UyYmUxMzI3NDMzYTA3Yzc0MDRmZWM4",
+        "price":"6.799.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 17,
+        "name": "MOTOROLA G54 5G Azul",
+        "brand": "MOTOROLA",
+        "ram":"8GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/840023252518-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxOTU1NnxpbWFnZS93ZWJwfGFEYzBMMmcwTXk4eE5ETTFORGczTVRBNU1USXpNQzg0TkRBd01qTXlOVEkxTVRoZk1EQXhYemMxTUZkNE56VXdTQXxhZmQ1MGJlNGI0MmVkNzE3OTU1OWY1ZjRkMDQzZTBlYzVhOWFiODk3ZTQ5MTk3MDFkZTg4YjY0Nzg4MzQzODRm",
+        "price":"1.699.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 18,
+        "name": "iPhone 14  Morado",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/194253488248-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjg3NnxpbWFnZS93ZWJwfGFEazFMMmd5TlM4eE5ETTNOekEzTkRjMU16VTJOaTh4T1RReU5UTTBPRGd5TkRoZk1EQXhYemMxTUZkNE56VXdTQXxkMDgzNzYyMjE0OTRmMWMzMjRjMTQ0MTExOGZhNjUxZmJhOWRmZTAzZTRmN2FjNDliMTgyMmJlNDgxZjlhYjM0",
+        "price":"4.879.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 19,
+        "name": "MOTOROLA G14  Morado",
+        "brand": "MOTOROLA",
+        "ram":"8GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/840023251689-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyNjA1OHxpbWFnZS93ZWJwfGFEYzFMMmc1WkM4eE5ETTFORGcyTlRNeU5EQTJNaTg0TkRBd01qTXlOVEUyT0RsZk1EQXhYemMxTUZkNE56VXdTQXxkY2QyYzg3MDMxNjNkYmI2NDNhNzdlMWRjNjBiNGFjYzNlZTY3NzUyZjdiMGY2YTljZmJiOGQ4YjYyZTY1MjNi",
+        "price":"1.239.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 20,
+        "name": "iPhone 11  Negro",
+        "brand": "APPLE",
+        "ram":"4GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/194252099094-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMjU0NHxpbWFnZS93ZWJwfGFETXhMMmcxTnk4eE5ESTVORGM0TlRJeU9EZ3pNQzh4T1RReU5USXdPVGt3T1RSZk1EQXhYemMxTUZkNE56VXdTQXxmNWViZjRhNjk5NzdiZmRkZGExYWMxYjY4MmUxMTk1ZTU3MDU3ODFhYWEwZWU1NDUxOWM3NTYwNGExZjI4OWFi",
+        "price":"2.899.000",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 21,
+        "name": "SAMSUNG A25  Azul",
+        "brand": "SAMSUNG",
+        "ram":"6GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/8806095365381-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNjgwNnxpbWFnZS93ZWJwfGFHVTJMMmd5TlM4eE5ETTJOVFExTURFd09EazFPQzg0T0RBMk1EazFNelkxTXpneFh6QXdNVjgzTlRCWGVEYzFNRWd8NjBiYjAyNzcyNWI4OGE2ODA1MDYwOWFlMjRhYWNkOGIzMTZlZjE3MTE1YzZiN2I2NzFhOGViNmVlYjBjNTQxYg",
+        "price":"1.299.990",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 22,
+        "name": "XIAOMI Redmi 13C Verde",
+        "brand": "XIAOMI",
+        "ram":"8GB",
+        "rom":"256GB",
+        "image":"https://www.alkosto.com/medias/6941812757246-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxNzczNnxpbWFnZS93ZWJwfGFESmxMMmc0T1M4eE5ETTJOREEzT0RFeE1qYzVPQzgyT1RReE9ERXlOelUzTWpRMlh6QXdNVjgzTlRCWGVEYzFNRWd8MmY3M2FiYjM3NGZjMzQ0ZDZlNTExYjQwNzc3MTM3MGM2ODAyNWI2ZDYyNjVlY2JiZDg3M2E4MzUzZGNiMjRlZg",
+        "price":"932.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 23,
+        "name": "MOTOROLA E13  Negro",
+        "brand": "MOTOROLA",
+        "ram":"2GB",
+        "rom":"64GB",
+        "image":"https://www.alkosto.com/medias/840023246845-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMjUxNnxpbWFnZS93ZWJwfGFHTmxMMmcwT1M4eE5ETTBOVEEwT0RNMU9EazBNaTg0TkRBd01qTXlORFk0TkRWZk1EQXhYemMxTUZkNE56VXdTQXxiNWYyYzM3MTFmNGQ2Njg4ODc1ZjdlYTMwYzFhYmRiYThjZmEyMGNiNDkzOTA4MDBkYjVlMGJjNGUzNjJhZmQx",
+        "price":"599.900",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    },
+    {
+        "id": 24,
+        "name": "SAMSUNG Galaxy S23FE 5G Gris",
+        "brand": "SAMSUNG",
+        "ram":"8GB",
+        "rom":"128GB",
+        "image":"https://www.alkosto.com/medias/8806095142982-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDYzNnxpbWFnZS93ZWJwfGFESXdMMmczTXk4eE5ETTFPVEkyTXpnM01UQXdOaTg0T0RBMk1EazFNVFF5T1RneVh6QXdNVjgzTlRCWGVEYzFNRWd8Y2M0OTI0YjFkMGIyY2I5NmFhZDIwZjIwZTdlZWQ5YWQ1OTVjYzA3YTZkYWE1ZTZiM2NkNWYzMTdjZGVjMDRjMg",
+        "price":"2.999.990",
+        "details" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dignissim auctor magna in pellentesque. Sed cursus et augue at eleifend. In euismod leo arcu, at dapibus dui dapibus at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam iaculis a nibh a efficitur. Integer et malesuada orci. Nullam metus magna, accumsan vitae imperdiet sit amet, pharetra vitae dolor"
+    }
+]

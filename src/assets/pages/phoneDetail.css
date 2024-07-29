@@ -1,0 +1,17 @@
+.detail-phone{
+    padding: 0 15px;
+}
+.detail-phone-name{
+    text-align: center;
+}
+.detail-phone-price {
+    text-align: center;
+    color: black;
+    border: none;
+    padding: 5% 10%;
+    max-height: 80px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    background: linear-gradient(90deg, #d9e021 0, #8cc63f 100%) 0 0 no-repeat padding-box;
+}

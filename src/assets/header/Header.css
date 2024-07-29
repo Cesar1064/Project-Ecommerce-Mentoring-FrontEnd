@@ -1,0 +1,120 @@
+
+.nav{
+    margin: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: solid 2px #9c9c9c;
+    height: 80px;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    flex: 1;
+
+}
+.logo img{
+    width: 70px;
+}
+.search input{
+    border: solid 1px rgb(163, 163, 163);
+    border-radius: 5px;
+    padding: 5px 15px;
+    width: 100%;
+    height: 35px;
+    
+}
+.search{
+    display: flex;
+    justify-content: center;
+    flex: 2;
+}
+.list-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1rem;
+    list-style: none;
+    transition-duration: 2s;
+
+}
+.access button {
+    color: black;
+    border: none;
+    padding: 5% 10%;
+    border-radius: 5px;
+    font-weight: 600;
+    background: linear-gradient(90deg, #d9e021 0, #8cc63f 100%) 0 0 no-repeat padding-box;
+
+}
+.menu{
+    background: linear-gradient(90deg, #d9e021 0, #8cc63f 100%) 0 0 no-repeat padding-box;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px 10px 0 0;
+}
+.menu div {
+    width: 10%;
+    max-width: 40px;
+    height: auto;
+}
+
+@media (min-width:700px){
+    .nav{
+        max-height: 80px;
+        
+    }
+    .logo-laptop{
+        flex: 1;
+    }
+    .logo-laptop img{
+        width: 120px;
+        height: auto;
+    }
+    .search{
+        flex: 2;
+    }
+    .list{
+        flex: 2;
+        display: flex;
+        justify-content: center;
+    }
+    .list-menu li{
+        font-weight: 550;
+        transition: all;
+        transition-duration: 2s;
+    }
+    .list-menu li a{
+        text-decoration: none;
+        color: black;
+    }
+    .access{
+        flex:1;
+        display: flex;
+        justify-content: center;
+        transition: all;
+        transition-duration: 2s;
+    }
+    .access button {
+        border: none;
+        padding: 5% 15%;
+        min-height: 40px;
+        border-radius: 5px;
+        font-weight: 600;
+        background: linear-gradient(90deg, #d9e021 0, #8cc63f 100%) 0 0 no-repeat padding-box;
+
+    }
+
+
+    
+}
+

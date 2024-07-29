@@ -1,0 +1,66 @@
+.card-phone{
+    width: 93%;
+    padding: 10px 10px;
+    border-radius: 1px;
+    border-bottom: ridge 2px rgb(165, 165, 165);
+}
+.card-phone *{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.phone{
+    display: flex;
+}
+.img-phone{
+    flex: 1;
+}
+.specific-list{
+    flex: 1;
+}
+.name-phone{
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    margin: 0;
+}
+.brand-phone{
+    font-size: 14px;
+    color: rgb(83, 83, 83);
+}
+.ram-phone{
+    font-size: 13px;
+    color: rgb(83, 83, 83);
+}
+.rom-phone{
+    font-size: 13px;
+    color: rgb(83, 83, 83) ;
+}
+.price-phone {
+    color: black;
+    border: none;
+    padding: 5% 10%;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    background: linear-gradient(90deg, #d9e021 0, #8cc63f 100%) 0 0 no-repeat padding-box;
+}
+@media(min-width:780px){
+img{
+    width: 65%;
+    height: auto;
+}
+.card-phone{
+    margin: 20px 0;
+    width: 80%;
+    padding: 10px 50px;
+}
+.img-phone{
+    flex: 2;
+}
+.specific-list{
+    flex: 1;
+
+}
+}

@@ -1,0 +1,96 @@
+
+.filter-bar button{
+    background-color: white;
+    border: none;
+    margin: 0 4px;
+    color: gray;
+}
+.filter-bar button.selected{
+    color: #8cc63f;
+    border-bottom: solid 2px #8cc63f;
+
+}
+.filter-bar{
+    overflow-x: auto;
+    min-height:35px;
+    white-space: nowrap;
+}
+@media(max-width:780px){
+    .content-phones{
+        margin: 0 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .filter-bar{
+        flex: 1;
+    }
+    .phones-cards{
+        flex: 1;
+    }
+}
+@media(min-width:780px){
+    .content-phones{
+        display: flex;
+        
+    }
+    .filter-bar{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+    .filter-bar button{
+        font-size: 20px;
+        width: 30px;
+        height: 50px;
+        transition: all;
+        transition-duration: .5s;
+    }
+    .filter-bar button:hover{
+        color: #8cc63f;
+        border-bottom: solid 4px #8cc63f;
+        width: 100px;
+    }
+    .filter-bar button.selected{
+        color: #8cc63f;
+        border-bottom: solid 4px #8cc63f;
+        width: 100px;
+    }
+    .phones-cards{
+        flex: 3;
+    }
+}
+.loading{
+    display: flex;
+    flex:2;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.loading-icon{
+    position: sticky;
+    align-self: center;
+    background-color: white;
+    padding: 50px 50px;
+    border-radius: 100px;
+    border-top: 10px solid #8cc63f;
+    animation: loading ;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+
+}
+@keyframes loading {
+
+    0%{transform: rotate(1deg);}
+    10%{transform: rotate(36deg);}
+    20%{transform: rotate(72deg);}
+    30%{transform: rotate(108deg);}
+    40%{transform: rotate(144deg);}
+    50%{transform: rotate(180deg);}
+    60%{transform: rotate(216deg);}
+    70%{transform: rotate(252deg);}
+    80%{transform: rotate(288deg);}
+    90%{transform: rotate(324deg);}
+    100%{transform: rotate(360deg);}
+}
+
