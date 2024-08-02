@@ -7,7 +7,6 @@ export const CardPhone = ({ idPhone, name, brand, ram, rom, price, img }) => {
     <section className="card-phone">
       <Link to={`/phone/${idPhone}`}>
         <div>
-          hello
           <h1 className="name-phone">{name}</h1>
           <article className="phone">
             <div className="img-phone">
