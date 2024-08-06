@@ -1,8 +1,24 @@
 /* eslint-disable react/prop-types */
-
+import React from "react";
 import { Link } from "react-router-dom";
-
-export const CardPhone = ({ idPhone, name, brand, ram, rom, price, img }) => {
+interface CardPhoneProps {
+  idPhone: number;
+  name: string;
+  brand: string;
+  ram: string;
+  rom: string;
+  price: string;
+  img: string;
+}
+export const CardPhone = ({
+  idPhone,
+  name,
+  brand,
+  ram,
+  rom,
+  price,
+  img,
+}: CardPhoneProps) => {
   return (
     <section className="card-phone">
       <Link to={`/phone/${idPhone}`}>
