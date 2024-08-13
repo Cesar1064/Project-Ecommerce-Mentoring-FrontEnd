@@ -1,12 +1,12 @@
-
-import { CardsPhones } from "../components/content/CardsPhones"
-import {Header} from "../components/header/Header"
+import React from "react";
+import { CardsPhones } from "../components/content/CardsPhones";
+import { Header } from "../components/header/Header";
 
 export const Home = () => {
-    return (
+  return (
     <>
-        <Header/>
-        <CardsPhones/>
+      <Header />
+      <CardsPhones />
     </>
-    )
-}
+  );
+};
